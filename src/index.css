@@ -1,10 +1,15 @@
+<<<<<<< HEAD
 /* In your CSS file */
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400&display=swap');
+=======
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+>>>>>>> b0b7c4888d26ebd425460e0b27a11034324a3220
 
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
+<<<<<<< HEAD
 :root {
   --radius-rounded-sm: 4px;
   --Color-Style-Primary-Roles-Pri-color: #4567f7;
@@ -139,3 +144,8 @@
     padding: 0; /* Remove padding on small screens */
   }
 }
+=======
+body {
+  font-family: 'Lato', sans-serif;
+}
+>>>>>>> b0b7c4888d26ebd425460e0b27a11034324a3220
